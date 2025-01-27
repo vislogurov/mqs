@@ -1,0 +1,17 @@
+.swc
+.cache
+node_modules/
+.idea
+.vscode
+npm-debug.log*
+.DS_Store
+*.sublime*
+*.log
+/lib
+/public
+__diff_output__
+/.yarnrc
+/.yarn  
+yarn-error.log
+--http
+dump.rdb

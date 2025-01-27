@@ -1,0 +1,13 @@
+{
+  "name": "mqs",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "dependencies": {
+    "ioredis": "^5.4.2",
+    "serve-handler": "^6.0.3",
+    "ws": "^8.13.0",
+    "yargs": "^17.7.2",
+    "zeromq": "^6.3.0"
+  }
+}
